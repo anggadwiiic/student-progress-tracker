@@ -1,0 +1,23 @@
+.topnav-wrapper {
+  position: absolute;
+  top: 1.5rem;
+  right: 2rem;
+  display: flex;
+  gap: 0.5rem;
+  z-index: 999;
+}
+
+.topnav-wrapper button {
+  background-color: #394c66;
+  color: white;
+  border: none;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.topnav-wrapper button:hover {
+  background-color: #1e4984;
+}
