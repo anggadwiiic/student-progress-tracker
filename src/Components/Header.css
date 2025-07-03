@@ -3,19 +3,19 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;             /* biar rapi kalau layar sempit */
+  flex-wrap: wrap;             
   padding: 1.5rem 2rem;
-  background-color: #111827;   /* abu gelap */
+  background-color: #111827;
   color: #fff;
 }
 
-/* blok kiri (judul + deskripsi) */
+
 .header-left {
-  flex: 1 1 300px;             /* boleh turun baris jika sempit */
+  flex: 1 1 300px;            
   text-align: left;
 }
 
-/* blok kanan (tombol) */
+
 .header-right {
   display: flex;
   gap: 1rem;
