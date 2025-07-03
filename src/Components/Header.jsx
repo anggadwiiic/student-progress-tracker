@@ -6,7 +6,7 @@ const { title } = props;
       {/* Tampilkan data dari props.title */}
       <h1>Selamat Datang di</h1>
       <h1>{title}</h1>
-      <p>Ini adalah header aplikasi kita.</p>
+      <p>Jadikan proses belajar Anda lebih terarah dan terukur dengan menggunakan student progress tracker</p>
     </header>
   );
 }

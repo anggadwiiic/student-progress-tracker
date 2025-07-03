@@ -12,7 +12,7 @@ function App() {
     <>
       <Header title="PROGRESS TRACKER"/>
       {/* Konten lainnya bisa ditambahkan di sini */}
-      <Button text="Student"/>
+      <Button text="PROFIL MAHASISWA"/>
       <main>
         <p>Ini adalah konten utama aplikasi.</p>
       </main>
